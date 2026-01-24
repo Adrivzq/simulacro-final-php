@@ -7,11 +7,7 @@ Laracoffee is a web application built using the Laravel framework that allows us
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [UI](#ui)
-- [In Summary](#in-summary)
-
 
 ## Features
 ### Admin
@@ -79,9 +75,6 @@ To run Laracoffee locally, follow these steps:
 - Make a test order to see the order processing workflow.
 - Access the admin panel by log in with admin credentials (if seeded).
 - Manage products and orders through the admin panel.
-
-## License
-This project is licensed under the [MIT License](https://github.com/snykk/Laracoffee/blob/master/LICENSE).
 
 ## UI
 
