@@ -17,10 +17,10 @@ body {
     font-size: 48px;
     font-weight: 700;
     line-height: 56px;
-    color: #364146;
+    color: #a77057;
 }
 #hero h2 {
-    color: #576971;
+    color: #a77057;
     margin-bottom: 30px;
     font-size: 24px;
 }
@@ -83,7 +83,7 @@ section {
     margin-bottom: 20px;
     padding-bottom: 0;
     font-family: "Poppins", sans-serif;
-    color: #627680;
+    color: #a77057;
 }
 .section-title p {
     margin-bottom: 0;
@@ -98,12 +98,12 @@ section {
     padding-top: 40px;
 }
 #about .about-content h2 {
-    color: #413e66;
+    color: #a77057;
     font-family: "Montserrat", sans-serif;
     font-weight: 700;
 }
 #about .about-content h3 {
-    color: #696592;
+    color: #a77057;
     font-weight: 400;
     font-size: 22px;
     font-style: italic;
