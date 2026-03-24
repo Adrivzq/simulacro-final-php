@@ -26,7 +26,7 @@ Route::middleware(['alreadyLogin'])->group(function () {
 
     // Login
     Route::get('/{url}', [AuthController::class, "loginGet"])->where(["url" => "auth|auth/login"])->name("auth");
-    Route::post('/auth/login', [AuthController::class, "loginPost"]);
+    Route::post('/ ', [AuthController::class, "loginPost"]);
 
     // Register
     Route::get('/auth/register', [AuthController::class, "registrationGet"]);
